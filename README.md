@@ -1,6 +1,6 @@
 ## Income Classification based on US Census Data
 
-This repository contains the final project for the "Big Data" course at Warsaw School of Economics. The project was developed collaboratively by me and two other colleagues. It was developed via DataBricks.
+This repository contains the final project for the "Big Data" course at Warsaw School of Economics. The project was developed collaboratively by me and two other colleagues. It was developed via Databricks.
 
 Here is the link to the notebook: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1370453633106322/95111070522763/7710213420369909/latest.html
 
